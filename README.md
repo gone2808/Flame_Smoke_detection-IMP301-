@@ -3,6 +3,14 @@
 - This is the project for IMP301(assignment 1).
 - The implementation is simplely based on the details paper on reference.
 
+## Implementation
+
+- The implementation is simplely based on the details paper on reference.
+- Detail information can be found in Docs.
+- Some Additional improving is added on code:
+  - Median blur
+  - Morphological operation
+  
 ## Docs
 
 - [Summary detail](docs/summary.pdf)
