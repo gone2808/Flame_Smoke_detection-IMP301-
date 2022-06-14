@@ -10,22 +10,26 @@
 - Some Additional improving is added on code:
   - Median blur
   - Morphological operation
-  
+
 ## Docs
 
 - [Summary detail](docs/summary.pdf)
 
 ## Demo
-
-<div align="center">
+- To run demo:
+```
+ python demo.py
+```
+- Some demo results:
+<div align="center" class = "row1">
  <img height="200em" src="gif_and_image/barbeq_result.gif">
  <img height="200em" src="gif_and_image/controlled1_result.gif"/>
 </div>
-<div align="center">
+<div align="center" class = "row2">
  <img height="200em" src="gif_and_image/fire1_result.gif">
  <img height="200em" src="gif_and_image/controlled2_result.gif"/>
 </div>
-<div align="center">
+<div align="center" class = "row3">
  <img height="200em" src="gif_and_image/forest1_result.gif">
 </div>
 
