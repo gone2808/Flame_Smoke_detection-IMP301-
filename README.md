@@ -13,7 +13,7 @@
 
 ## Docs
 
-- [Summary detail](docs/summary.pdf)
+- [Summary detail](https://github.com/gone2808/Flame_Smoke_detection-IMP301-/blob/main/docs/Summary.pdf)
 
 ## Demo
 - To run demo:
