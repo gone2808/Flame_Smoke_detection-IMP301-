@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<threshold>6.7000000000000004e-01</threshold>
+<framesToLearn>10</framesToLearn>
+<alphaLearn>1.0000000000000001e-01</alphaLearn>
+<alphaUpdate>1.0000000000000000e-02</alphaUpdate>
+<colorSpace>1</colorSpace>
+<option>2</option>
+<smooth>1</smooth>
+<showOutput>1</showOutput>
+</opencv_storage>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<history>500</history>
+<nSamples>7</nSamples>
+<dist2Threshold>400.</dist2Threshold>
+<knnSamples>0</knnSamples>
+<doShadowDetection>1</doShadowDetection>
+<shadowValue>127</shadowValue>
+<shadowThreshold>5.0000000000000000e-01</shadowThreshold>
+<showOutput>1</showOutput>
+</opencv_storage>

@@ -13,14 +13,19 @@
 
 ## Docs
 
+- [Slide](https://www.canva.com/design/DAFDHriaq7M/OALhBMOEraGOEY-aR8Brhg/edit?utm_content=DAFDHriaq7M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton&fbclid=IwAR1KC3ssKdh2TjaJyuIHq_Vov6gFRTAW6HLhFd4O_ieNgZxT3EioGXuPrLI)
 - [Summary detail](https://github.com/gone2808/Flame_Smoke_detection-IMP301-/blob/main/docs/Summary.pdf)
 
 ## Demo
+
 - To run demo:
+
 ```
- python demo.py
+python demo.py
 ```
+
 - Some demo results:
+
 <div align="center" class = "row1">
  <img height="200em" src="gif_and_image/barbeq_result.gif">
  <img height="200em" src="gif_and_image/controlled1_result.gif"/>
